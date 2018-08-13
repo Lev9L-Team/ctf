@@ -173,4 +173,5 @@ plain 2,2:  of considerable media attention. Nice job! Your flag is tjctf{c0uld_
 
 When you read the [mathworld](http://mathworld.wolfram.com/Cayley-PurserAlgorithm.html) website, 
 then you have to change the variables of A, B, G, to alpha, beta, gamma and so on, when you think in the space of the challenge.
- 
+
+The full source code to solve the challenge are in the [sage_sarah.py](https://github.com/Lev9L-Team/ctf/tree/master/2018-08-07_tjctf/sarahs_crypto/sage_sarah.py) file.
