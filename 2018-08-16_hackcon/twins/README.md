@@ -1,4 +1,5 @@
 # Twins (Steg, 239 solved, 20 points)
+###### Author: @pascalao (ecurve)
 
 ```
 Two brothers separated long ago, finally decide to reunite
@@ -23,3 +24,4 @@ d4rk{lo0king_p4st_0ur_d1ff3renc3s}c0de
 ```
 
 The program is in the file [twins.py](https://github.com/Lev9L-Team/ctf/tree/master/2018-08-16_hackcon/twins/twins.py)
+

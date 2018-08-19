@@ -11,3 +11,8 @@
 You can visit our team also on [CTFTime.org](https://ctftime.org/team/59614) and [lev9l.com](https://lev9l.com)
 
 Contact the team: team@lev9l.com
+
+Team members:
+@qrzcn
+@pascalao (ecurve)
+@capfly

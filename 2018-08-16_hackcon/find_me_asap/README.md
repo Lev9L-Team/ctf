@@ -1,4 +1,5 @@
 # Find Me, ASAP (Junior, 339 solved, 20 points)
+###### Author: @pascalao (ecurve)
 
 ```
 What does this look like?!

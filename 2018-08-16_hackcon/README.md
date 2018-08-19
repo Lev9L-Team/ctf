@@ -1,4 +1,5 @@
 # Hackcon 2018
+###### Team: @qrzcn, @pascalao (ecurve)
 
 ## Table of contents
 
