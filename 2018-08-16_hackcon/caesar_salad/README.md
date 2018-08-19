@@ -1,5 +1,5 @@
 # Caesar Salad (Junior, 413 solved, 10 points)
-###### Author: @pascalao (ecurve)
+###### Author: [ecurve](https://github.com/Pascalao)
 
 ```
 Can you toss Caesar's salad?

@@ -1,4 +1,5 @@
 # Sarah's Cryptosystem (crypto, 33 solved, 60 points)
+###### Author: [ecurve](https://github.com/Pascalao)
 
 ## Introduction
 ```

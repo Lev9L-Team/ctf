@@ -1,5 +1,5 @@
 # Salad Upgrades (Junior, 239 solved, 20 points)
-###### Author: @pascalao (ecurve)
+###### Author: [ecurve](https://github.com/Pascalao)
 
 ```
 Sure, I could toss them all using just one shift. But am I gonna?

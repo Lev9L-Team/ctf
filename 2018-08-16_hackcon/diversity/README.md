@@ -1,5 +1,5 @@
 # Diversity (Crypto, 278 solved, 30 points)
-###### Author: @pascalao (ecurve)
+###### Author: [ecurve](https://github.com/Pascalao)
 
 ```
 So much diversity, my mind boggles..!

@@ -1,4 +1,5 @@
 # Mirror Mirror (Miscellaneous, 89 solved, 100 points)
+###### Author: [ecurve](https://github.com/Pascalao)
 
 ```
 If you look closely, you can see a reflection.

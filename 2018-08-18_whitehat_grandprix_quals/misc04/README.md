@@ -1,5 +1,5 @@
 # misc04 (misc / PPC, 36 solved, 140 points)
-###### Author: @pascalao (ecurve)
+###### Author: [ecurve](https://github.com/Pascalao)
 
 We solved this challenge outside the time of the CTF competition.
 And we saw the hint also to late =)

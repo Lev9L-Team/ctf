@@ -1,5 +1,5 @@
 # Find Me, ASAP (Junior, 339 solved, 20 points)
-###### Author: @pascalao (ecurve)
+###### Author: [ecurve](https://github.com/Pascalao)
 
 ```
 What does this look like?!

@@ -1,5 +1,5 @@
 # WhiteHat GrandPrix 2018 Quals
-###### Team: @qrzcn, @capfly, @pascalao (ecurve)
+###### Team: [qrzcn](https://github.com/qrzcn), [capfly](https://github.com/Capfly), [ecurve](https://github.com/Pascalao)
 
 ## Table of contents
 
