@@ -13,6 +13,7 @@ You can visit our team also on [CTFTime.org](https://ctftime.org/team/59614) and
 Contact the team: team@lev9l.com
 
 Team members:
-@qrzcn,
-@pascalao (ecurve),
-@capfly
+[qrzcn](https://github.com/qrzcn),
+[ecurve](https://github.com/Pascalao),
+[capfly](https://github.com/Capfly),
+[Ashouri](https://github.com/megacoder999)
