@@ -1,5 +1,5 @@
 # revfcuk ;) (Pwn, 53 solved, 120 points)
-###### Author: @qrzcn
+###### Author: [qrzcn](https://github.com/qrzcn)
 
 ```
 Please make this file less annoying.
