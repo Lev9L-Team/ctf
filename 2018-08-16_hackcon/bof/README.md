@@ -1,5 +1,5 @@
 # BOF (Pwn, 160 solved, 50 points)
-###### Author: @qrzcn
+###### Author: [qrzcn](https://github.com/qrzcn)
 
 ```
 Binary is running at
