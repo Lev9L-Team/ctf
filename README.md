@@ -17,3 +17,7 @@ Team members:
 [ecurve](https://github.com/Pascalao),
 [capfly](https://github.com/Capfly),
 [Ashouri](https://github.com/megacoder999)
+
+Team leader:
+[ecurve](https://github.com/Pascalao),
+[capfly](https://github.com/Capfly)
