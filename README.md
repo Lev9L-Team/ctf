@@ -2,6 +2,7 @@
 
 ## 2018
 
+- [35C3 CTF (206th place / 636 teams)](https://github.com/Lev9L-Team/ctf/tree/master/2018-12-27-35c3ctf)
 - [WhiteHat GrandPrix 2018 Quals (98th place / 361 teams)](https://github.com/Lev9L-Team/ctf/tree/master/2018-08-18_whitehat_grandprix_quals)
 - [HackCon18 (85th place / 461 teams)](https://github.com/Lev9L-Team/ctf/tree/master/2018-08-16_hackcon)
 - [TJCTF 2018 (53th place (without observer teams) / 845 teams // 71th place (with observer teams) / 1016 teams )](https://github.com/Lev9L-Team/ctf/tree/master/2018-08-07_tjctf)
