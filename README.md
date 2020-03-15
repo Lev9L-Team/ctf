@@ -17,8 +17,7 @@ Contact the team: team@lev9l.com
 Team members:
 [qrzcn](https://github.com/qrzcn),
 [ecurve](https://github.com/Pascalao),
-[capfly](https://github.com/Capfly),
-[Ashouri](https://github.com/megacoder999)
+[capfly](https://github.com/Capfly)
 
 Team leader:
 [ecurve](https://github.com/Pascalao),
