@@ -90,9 +90,9 @@ By observing that $ct_1 = E(x_1)$ it is possible to encrypt any plaintext block 
 Any further block will be encrypted by the more "complex" formula above.
 This provides a pure encryption function that may be used later.
 By analyzing 
-$$
-ct_3 =  E(x_3) \oplus x_2 \oplus D(E(x_2) \oplus x_1)
-$$
+
+$$ct_3 =  E(x_3) \oplus x_2 \oplus D(E(x_2) \oplus x_1)$$
+
 Observe that using the plaintext blocks $x_1$ and $x_2$ it is possible to manipulate this equation.
 
 
@@ -101,23 +101,22 @@ Using the encryption oracle for one call it is possible to get $E(0) = ct_1 = y$
 As a reminder $x_2, x_3, x_1$ can be chosen arbitrary, i.e. they are controlled by the adversary, and $E(x_1)$ is known.
 Let $x_1 = x' \oplus E(x_2)$.
 Thus, it follows
-$$
-ct_3 \oplus E(x_3) \oplus x_2 = D(E(x_2) \oplus x_1) = D(E(x_2) \oplus x_1) = D(E(x_2) \oplus x' \oplus E(x_2)) = D(x').
-$$
+
+$$ct_3 \oplus E(x_3) \oplus x_2 = D(E(x_2) \oplus x_1) = D(E(x_2) \oplus x_1) = D(E(x_2) \oplus x' \oplus E(x_2)) = D(x').$$
+
 This provides an decryption oracle using the encryption function above.
 Let give this a name $dec_{\mathop{oracle}}(x')$.
 Thus, it is now possible to decrypt the first block of the ciphertext via $dec_{\mathop{oracle}}(x_1^{\mathop{flag}})$.
 
 To decrypt the other ciphertext blocks of the flag it is necessary to retrieve the pur encryption of the flag, i.e. $E(x_i^{\mathop{flag}})$ where $i \in \mathbb{N}$ is the index of the particular ciphertext block of the encrypted flag.
 Since $x_1^{\mathop{flag}}, x_2^{\mathop{flag}}$ and $E(x_2^{\mathop{flag}})$ is known it follows that
-$$
-ct_i^{\mathop{flag}} \oplus x_{i-1}^{\mathop{flag}} \oplus D(E(x_{i-1}^{\mathop{flag}}) \oplus x_{i-2}^{\mathop{flag}}) = E(x_i^{\mathop{flag}}),
-$$
+
+$$ct_i^{\mathop{flag}} \oplus x_{i-1}^{\mathop{flag}} \oplus D(E(x_{i-1}^{\mathop{flag}}) \oplus x_{i-2}^{\mathop{flag}}) = E(x_i^{\mathop{flag}}),$$
+
 where $i geq 2$.
 Thus, the the plaintext blocks of the encrypted flag is given by
-$$
-dec_{\mathop{oracle}}(ct_i^{\mathop{flag}}) = x_i^{\mathop{flag}}.
-$$
+
+$$dec_{\mathop{oracle}}(ct_i^{\mathop{flag}}) = x_i^{\mathop{flag}}.$$
 
 Thus, the followin script is providing the flag:
 
